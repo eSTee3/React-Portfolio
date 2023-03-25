@@ -1,7 +1,7 @@
 /* eslint-disable jsx-a11y/anchor-is-valid */
 import React from "react";
 import "./nav.css";
-import { FaHome, FaUser, FaBook, FaProjectDiagram } from "react-icons/fa";
+import { FaHome, FaUser, FaProjectDiagram } from "react-icons/fa";
 import { MdContactMail } from 'react-icons/md'
 import { useState } from "react";
 

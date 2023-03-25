@@ -51,7 +51,7 @@ const projects = [{
   demo:'https://www.youtube.com/watch?v=PD2yKSoZDUI'
 },
 ]
-const Projects = () => {
+const Project = () => {
   return (
     <section id="project">
       <h5>My Project Work</h5>
@@ -71,7 +71,7 @@ const Projects = () => {
           >
             Link to Github Repository
           </a>
-          <a href={demo} className="btn btn-primary" target='_blank' rel="noreferrer">
+          <a href={demo} className="btn btn-primary" target='_blank' rel="noopener noreferrer">
             Live Site / Demo Video
           </a>
           </div> 
