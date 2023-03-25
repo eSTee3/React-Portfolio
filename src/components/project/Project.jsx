@@ -69,10 +69,10 @@ const Project = () => {
             href={github}
             className="btn"
           >
-            Link to Github Repository
+            GitHub Repo
           </a>
           <a href={demo} className="btn btn-primary" target='_blank' rel="noopener noreferrer">
-            Live Site / Demo Video
+            Site/Demo
           </a>
           </div> 
         </article>
