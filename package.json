@@ -1,6 +1,8 @@
 {
   "name": "react-portfolio",
   "version": "1.0.0",
+  "private": true,
+  "homepage": "https://eSTee3.github.io/react-portfolio"
   "description": "react-based portfolio",
   "dependencies": {
     "@react-three/drei": "^9.11.3",
