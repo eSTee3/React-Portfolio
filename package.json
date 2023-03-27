@@ -2,7 +2,7 @@
   "name": "react-portfolio",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://eSTee3.github.io/react-portfolio"
+  "homepage": "https://estee3.github.io/React-Portfolio/",
   "description": "react-based portfolio",
   "dependencies": {
     "@react-three/drei": "^9.11.3",
@@ -11,6 +11,7 @@
     "@testing-library/react": "^13.2.0",
     "@testing-library/user-event": "^13.5.0",
     "emailjs-com": "^3.2.0",
+    "gh-pages": "^5.0.0",
     "gltfjsx": "^4.6.4",
     "react": "^18.2.0",
     "react-dom": "^18.1.0",
@@ -36,7 +37,6 @@
   "bugs": {
     "url": "https://github.com/eSTee3/React-Portfolio/issues"
   },
-  "homepage": "https://github.com/eSTee3/React-Portfolio#readme",
   "browserslist": [
     ">0.2%",
     "not dead",
