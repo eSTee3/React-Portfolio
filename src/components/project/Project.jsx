@@ -53,7 +53,7 @@ const projects = [{
 },
 {
   id: 7,
-  image: Image06,
+  image: Image07,
   title: 'Leash Application',
   github: 'https://github.com/eSTee3/Leash',
 },
