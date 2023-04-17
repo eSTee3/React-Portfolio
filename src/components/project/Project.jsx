@@ -56,6 +56,7 @@ const projects = [{
   image: Image07,
   title: 'Leash Application',
   github: 'https://github.com/eSTee3/Leash',
+  demo: 'https://team01-leash.herokuapp.com/'
 },
 ]
 const Project = () => {
