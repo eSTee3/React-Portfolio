@@ -6,6 +6,7 @@ import Image03 from '../../assets/Note Taker.png';
 import Image04 from '../../assets/JATE.png';
 import Image05 from '../../assets/Employee Tracker.png';
 import Image06 from '../../assets/Team Generator.png';
+import Image07 from '../../assets/Leash.png'
 
 
 const projects = [{
@@ -49,6 +50,12 @@ const projects = [{
   title: 'Team Profile Generator',
   github: 'https://github.com/eSTee3/Team-Profile-Generator',
   demo:'https://www.youtube.com/watch?v=PD2yKSoZDUI'
+},
+{
+  id: 7,
+  image: Image06,
+  title: 'Leash Application',
+  github: 'https://github.com/eSTee3/Leash',
 },
 ]
 const Project = () => {
